@@ -39,7 +39,7 @@
 - **[Shop Complex](https://www.myshopcomplex.com)**  
   CEO and lead developer of this e-commerce platform, focusing on seamless shopping experiences, scalability, and robust backend solutions.
 
-- **[Project 2: RESTful API for E-commerce](https://github.com/username/project2)**  
+- **[Project 2: Hotel Management App](https://github.com/Piwoksn/Compiled_Hotel_Management_App)**  
   API backend for a full-scale e-commerce platform, featuring authentication, CRUD operations, and optimized database design.
 
 - **[Project 3: Responsive Portfolio](https://github.com/username/project3)**  
@@ -60,7 +60,7 @@ Currently diving into **React** to expand my front-end development skills and cr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piwoks-noble-ovurizi"><img src="https://img.shields.io/badge/LinkedIn-Piwoks%20Noble%20Ovurizi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Piwoks%20Noble%20Ovurizi-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Piwoksn-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:piwoksn@gmail.com"><img src="https://img.shields.io/badge/Email-piwoksn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
