@@ -59,8 +59,8 @@ Currently diving into **React** to expand my front-end development skills and cr
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piwoks-noble-ovurizi"><img src="https://img.shields.io/badge/LinkedIn-Piwoks%20Noble%20Ovurizi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Piwoksn-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/noble-piwoks"><img src="https://img.shields.io/badge/LinkedIn-Piwoks%20Noble%20Ovurizi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/piwoksn"><img src="https://img.shields.io/badge/GitHub-Piwoksn-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:piwoksn@gmail.com"><img src="https://img.shields.io/badge/Email-piwoksn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
