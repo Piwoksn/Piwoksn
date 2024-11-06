@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and **RESTful APIs**.
+- 💻 Full Stack Developer skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, **Bootstrap**, and **RESTful APIs**.
 - 📚 Currently expanding my front-end capabilities with **React**.
-- 🌱 CEO and lead developer of **[My Shop Complex](https://www.myshopcomplex.com)**, an e-commerce platform where I focus on building efficient, scalable solutions.
+- 🌱 CEO and lead developer of **[Shop Complex](https://www.myshopcomplex.com)**, an e-commerce platform where I focus on building efficient, scalable solutions.
 - 🚀 Passionate about delivering high-quality applications and staying up-to-date with the latest in technology.
 
 ---
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Framework-Django-success?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/API-REST-green?style=for-the-badge&logo=api&logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Learning-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
 
@@ -35,7 +36,7 @@
 
 ### 🚀 My Projects
 
-- **[My Shop Complex](https://www.myshopcomplex.com)**  
+- **[Shop Complex](https://www.myshopcomplex.com)**  
   CEO and lead developer of this e-commerce platform, focusing on seamless shopping experiences, scalability, and robust backend solutions.
 
 - **[Project 2: RESTful API for E-commerce](https://github.com/username/project2)**  
