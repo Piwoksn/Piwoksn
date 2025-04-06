@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer | CEO | Tech Enthusiast</strong>
+  <strong>Django Backend Developer | CEO | Tech Enthusiast</strong>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, **Bootstrap**, and **RESTful APIs**.
+- 💻 Django Backend Developer skilled in **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, **Bootstrap**, and **RESTful APIs**.
 - 📚 Currently expanding my front-end capabilities with **React**.
 - 🌱 CEO and lead developer of **[Shop Complex](https://www.myshopcomplex.com)**, an e-commerce platform where I focus on building efficient, scalable solutions.
 - 🚀 Passionate about delivering high-quality applications and staying up-to-date with the latest in technology.
@@ -53,6 +53,7 @@ Feel free to explore my repositories to see more!
 
 ![React](https://img.shields.io/badge/React-Learning-informational?style=for-the-badge&logo=react&logoColor=white)  
 Currently diving into **React** to expand my front-end development skills and create interactive user interfaces.
+Also pursueing a carrier in **Data Science**
 
 ---
 
