@@ -49,13 +49,6 @@ Feel free to explore my repositories to see more!
 
 ---
 
-### 🌱 What I'm Learning
-
-![React](https://img.shields.io/badge/React-Learning-informational?style=for-the-badge&logo=react&logoColor=white)  
-Currently diving into **React** to expand my front-end development skills and create interactive user interfaces.
-Also pursueing a carrier in **Data Science**
-
----
 
 ### 📫 Let's Connect!
 
